@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'nssapp',
 ]
 
+# comment
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
